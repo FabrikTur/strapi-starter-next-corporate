@@ -9,6 +9,9 @@
     "lint": "next lint",
     "lint:fix": "next lint --fix"
   },
+  "engines": {
+  "node": "16.x"
+},
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "classnames": "^2.2.6",
